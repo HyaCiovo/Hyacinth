@@ -3,7 +3,7 @@ title: Taro 数字滚动组件（支持React/Solid）
 published: 2025-04-12
 updated: 2025-04-13
 description: 'Taro-CountUp 是一款简单易用的Taro数字滚动组件，支持React和Solid.js框架写法。该组件适用于平滑滚动数字到指定值的场景，支持自定义滚动时间、缓动效果、小数位数显示等功能。'
-tags: [Taro,React,Solid.js,开源]
+tags: [Taro,React,Solid.js]
 category: 'OpenSource'
 draft: false 
 ---
