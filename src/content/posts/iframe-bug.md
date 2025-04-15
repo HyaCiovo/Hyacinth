@@ -13,10 +13,8 @@ draft: false
 前段时间在迭代公司后台项目时，发现某几个页面滚动溢出了：
 
 
-![597cfda6bd676dadd4ca246909c7e38.jpg](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/849530e1822c4b2294a74dc174415560~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1916&h=968&s=122563&e=jpg&b=fefdfd)
+![597cfda6bd676dadd4ca246909c7e38.jpg](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/73fb3f9439524c6dbaa96093c8d60344~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6auY6aG55LiN6L-H5LiN5pS55ZCN:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiNDMzMjU0NTk3MDgyMDg2MSJ9&rk3s=e9ecf3d6&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1744791040&x-orig-sign=8LVoPi1AnlyGPufE%2Fn9ncrJ%2BGns%3D)
 
-
-![b4e4d6cf25fd8f5443b1e18c0979a66.jpg](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0007bd3d81b54d2992cdc00992f9b0cd~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1916&h=972&s=118843&e=jpg&b=fdfcfc)
 
 如图紫色方框中页面底部出现空白，且fixed定位的按钮也很乱。
 
@@ -51,7 +49,7 @@ body {
 然后我发现项目刷新后并没有直接溢出滚动，且只有在部分页面向下滑动时才会出现这个现象，出现该现象后切换到其他页面，滚动不会消失。那会不会是某些页面给添加了某粒“老鼠屎”，后面又没有去干掉它呢，于是我又去仔细看了第一次产生溢出的页面的dom，发现这里添加了一个`iframe`元素。
 
 
-![image.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8513e1aada7743799c8c03c078742c5b~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1046&h=104&s=18763&e=png&b=f7f7f7)
+![image.png](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/834a153458f542fda54416efe4c670e3~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6auY6aG55LiN6L-H5LiN5pS55ZCN:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiNDMzMjU0NTk3MDgyMDg2MSJ9&rk3s=e9ecf3d6&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1744790933&x-orig-sign=ez4MSIGiz2zrTwJNgwk4OP3HA70%3D)
 
 切换页面后，这个`iframe`一直还在页面上。看来**罪魁祸首**就是他了！
 

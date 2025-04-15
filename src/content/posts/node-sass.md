@@ -23,8 +23,13 @@ draft: false
 
 再看看JY们在一篇不久前发布的文章 [又报gyp ERR！为什么有那么多人被node-sass 坑过？node-sass: Command failed](https://juejin.cn/post/7408606153393307660?searchId=2024103114543697C8478E622E8E88D0DF) 评论区的吐槽:
 
-<img src="https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/01a494d823fd4c8eb2d0e88812dc0f91~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6auY6aG55LiN6L-H5LiN5pS55ZCN:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiNDMzMjU0NTk3MDgyMDg2MSJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1745228649&x-orig-sign=ov1EpiDo81J%2F2PXbbZfKRRniIKI%3D" alt="e895ef9e9fc305a663fefe915245230" style="height:300px;">
-<img src="https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/cfa8cdfe00f04a78b13e13305f5ea3b3~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6auY6aG55LiN6L-H5LiN5pS55ZCN:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiNDMzMjU0NTk3MDgyMDg2MSJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1745228649&x-orig-sign=ZmmIaE2veawwfH0eGlzQvT9E3H0%3D" alt="e895ef9e9fc305a663fefe915245230" style="height:300px;">
+<table>
+  <tbody align="center">
+      <tr>
+    <td><img src="https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/01a494d823fd4c8eb2d0e88812dc0f91~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6auY6aG55LiN6L-H5LiN5pS55ZCN:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiNDMzMjU0NTk3MDgyMDg2MSJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1745228649&x-orig-sign=ov1EpiDo81J%2F2PXbbZfKRRniIKI%3D" alt="e895ef9e9fc305a663fefe915245230" width="350"></td>
+    <td><img src="https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/cfa8cdfe00f04a78b13e13305f5ea3b3~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6auY6aG55LiN6L-H5LiN5pS55ZCN:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiNDMzMjU0NTk3MDgyMDg2MSJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1745228649&x-orig-sign=ZmmIaE2veawwfH0eGlzQvT9E3H0%3D" alt="e895ef9e9fc305a663fefe915245230" width="350"></td>
+  </tr>
+</tbody></table>
 
 在我的开发过程中，也是苦`node-sass`久矣，本地安装项目依赖会因为各种问题（主要是`node`版本、网络等）导致`node-sass`安装失败，严重影响开发效率😡。所以我决定将项目的`node-sass`切换到`dart-sass`上。
 

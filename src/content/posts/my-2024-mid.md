@@ -28,7 +28,6 @@ draft: false
 
 不过说了好几个月的基于 umi + qiankun 的新平台在下半年终于是要交付了，又重新过了一遍代码和开发流程。有一说一，真的很麻烦，整个平台根本就不大，完全想不通为什么要上微前端，我们目前开发团队算上外包同学也就3个前端了，而且后续可能就我一个人负责这个平台的前端开发和维护😣。
 
-![image.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6d3cdbd433dc4364a22c8d7cbf2faee8~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1908&h=967&s=215437&e=png&b=fefdfd)
 
 工作之外重温了一下之前了解过的 SolidJS、Svelte 和 Tauri，写了几个小 Demo
  练练手：
@@ -41,22 +40,16 @@ draft: false
 
 5月份，带女朋友回了老家徐州玩。感觉物价比起过去涨了好多，尤其是节假日的酒店（不敢想要是高铁也在节假日涨价，我过年还回不回得起家），苏宁广场的绿茶餐厅比杭州in77的还贵。宝莲寺在最近徐州旅游火起来之前我都没听说过😹。羊肉串、菜煎饼、米线、蒸菜、冷面味道还是好吃的👍，不过在家待的几天都是出去下馆子，没怎么吃到家里人做的菜，饭馆基本都是除了几道特色菜好吃，其他都一般般。
 
-![fdd3809f1e627f989650a6ace0321cc.jpg](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9f15d36a9cf5405dac20386ef6c2f0b0~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=2498&h=4096&s=7049387&e=jpg&b=ded1b7)
-
 还得是过年时，家里做的好吃🫡。
-
-![a56ca2600e021e33c441fb639ff0992.jpg](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b4efcc5143fb4852b774b3ce6261bdfd~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1279&h=1706&s=1388340&e=jpg&b=d3cbb8)
 
 再秀两张在宝莲寺的情侣照😎
 
-![4283b9a12a10226a65e8dbc2b21774d.jpg](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9487e70ad0ff43a29676eb795bcf2008~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=2730&h=4088&s=6711810&e=jpg&b=cfbbaf)
+![4283b9a12a10226a65e8dbc2b21774d.jpg](../images/20250415164300.jpg)
 
 
 ### 展望
 
 女朋友也毕业了，后面就是两个人在杭州打拼了。现在的工作其实挺好的，但是没有机会爬上去，爬不上去就没法在这个房价、物价如此离谱的城市留下。爸妈总是跟我说他们当初在一起的时候什么也没有，后面还是一起打拼出了这个家，面包总会有的。不过我想社会发展到现在，想要的也不一样了，面包要有，玫瑰也要有的吧。
 
-
-![0051bffa936b09233a1c0cba8a34bd4.jpg](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5710658e9ecb415888056e032b76b827~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1706&h=1279&s=514472&e=jpg&b=debea8)
 
 hh，再写就要丧起来了。说不准哪天就中彩票了，什么面包、玫瑰都不是事😇，全都做成鲜花饼😡，硌不坏牙的那种。

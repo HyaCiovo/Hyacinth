@@ -13,7 +13,7 @@ draft: false
 
 ### 这里先摆一张知乎看到的图🤣
 
-![img](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ec4e04d3fea1474a93c6c03c0c6f30a7~tplv-k3u1fbpfcp-zoom-1.image)
+![img](https://pic1.zhimg.com/v2-d71f5670d6b8bef77ba1faf3d9b6eaa0_xld.png)
 
 ## 安装
 
@@ -137,4 +137,4 @@ export default defineNuxtConfig({
 
 > 最好提高下自己的英语水平，因为中文文档很多不能够与官方文档保持同步更新，落后版本 === kuangkuang掉大坑🕳
 
-<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/91caa44b471b4054bdea221606f12335~tplv-k3u1fbpfcp-zoom-1.image" />
+<img src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9uVnNaR081ZHZxbFJsVDNPRmhwWWljUVdJWVg4dDBpYWhRb0ZyR3ZWN2NZdTR0V1ZrdTFLUll5clZSa2NjUVNybXpNSG9pY0VzZ3RnU1F6T2tPaWI2V1BMdVEvNjQw?x-oss-process=image/format,png" />

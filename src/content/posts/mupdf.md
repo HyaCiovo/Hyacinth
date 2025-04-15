@@ -4,6 +4,8 @@ published: 2024-12-23
 updated: 2024-12-23
 description: '表哥最近经常找我给我侄子的试卷pdf 文件 A3 转 A4（因为他家打印机只有A4 纸）。为了省事，我用Tauri + MuPDF给他开发了一个pdf裁切小工具✨。'
 tags: [Tauri,Assembly]
+image: https://github.com/HyaCiovo/MuPdf-Crop-Kit/raw/main/src/assets/logo.png
+hideCover: true
 category: '开源'
 draft: false 
 ---
