@@ -1,3 +1,11 @@
+---
+title: 这是一篇求职帖
+published: 2025-04-15
+tags: [求职]
+description: 本人在职，考虑新的工作机会。您可以在此查看我的 Markdown 简历和联系方式，欢迎随时联系。
+category: 求职
+draft: false
+---
 
 :::important[正在求职]
 本人在职，考虑新的工作机会。您可以在下方查看我的`Markdown`简历和联系方式，欢迎随时联系。
