@@ -4,7 +4,7 @@ published: 2024-12-23
 updated: 2024-12-23
 description: '表哥最近经常找我给我侄子的试卷pdf 文件 A3 转 A4（因为他家打印机只有A4 纸）。为了省事，我用Tauri + MuPDF给他开发了一个pdf裁切小工具✨。'
 tags: [Tauri,Assembly]
-category: 'OpenSource'
+category: '开源'
 draft: false 
 ---
 
@@ -200,7 +200,7 @@ draft: false
 
 *   项目所使用的`wasm`文件大小有`10MB`，本工具真正用到的并没有那么多，但是优化需要修改原始文件并重新编译；
 *   浏览器端的性能受限，并且`wasm`运行可以使用的内存也是有限的；
-*   没有使用`Web Worker`，理论上转换这种高延迟的任务应当放在`Woker`线程中进行来防止堵塞主线程。
+*   没有使用`Web 工作记录er`，理论上转换这种高延迟的任务应当放在`Woker`线程中进行来防止堵塞主线程。
 
 ### 替代方案
 

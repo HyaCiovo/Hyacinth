@@ -4,7 +4,7 @@ published: 2023-12-29
 updated: 2023-12-29
 description: '刚入职时，遇到了一个线上 bug，用户点击复制按钮没办法复制文本，产品经理震怒，“这么简单的一个功能也能出问题？当时是谁验收的？”，因为我刚来还闲着，就把我派去解决这个问题。'
 tags: [React]
-category: 'Work'
+category: '工作记录'
 draft: false 
 ---
 

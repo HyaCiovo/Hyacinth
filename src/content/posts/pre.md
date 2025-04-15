@@ -4,7 +4,7 @@ published: 2024-11-28
 updated: 2024-11-28
 description: '代理重加密在数据交易中提供了增强的数据隐私保护、灵活的访问控制、高效的交易流程和支持合规性的多种优势。通过这些特性，代理重加密技术可以有效促进数据市场的健康发展，提升数据交易的安全性和效率。'
 tags: [Crypto]
-category: 'Learning'
+category: '兴趣扩展'
 draft: false 
 ---
 

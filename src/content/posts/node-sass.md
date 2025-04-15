@@ -4,7 +4,7 @@ published: 2024-10-31
 updated: 2024-10-31
 description: '本地开发苦 node-sass 久矣。想要换到 dart-sass，却又被使用的依赖包指定使用 node-sass ？那就全都换掉😡！'
 tags: [sass,React]
-category: 'Work'
+category: '工作记录'
 draft: false 
 ---
 

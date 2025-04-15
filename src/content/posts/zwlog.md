@@ -4,7 +4,7 @@ published: 2023-12-01
 updated: 2023-12-01
 description: '前段时间做了一个H5嵌入浙里办的需求，文档要求必须使用官方提供的zwlog进行埋点。网上的经验帖大部分是vue和uniapp的项目，这里记录一下自己在React项目中如何进行埋点开发。'
 tags: [React, 浙里办]
-category: 'Work'
+category: '工作记录'
 draft: false 
 ---
 ### 写在前面

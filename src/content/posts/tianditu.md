@@ -4,7 +4,7 @@ published: 2024-01-09
 updated: 2024-01-09
 description: '最近新接到了一个需求，要把公司官网的地图组件改成天地图的地图，本文React（Next）项目引入天地图API的开发过程做一下简单记录。'
 tags: [React,Next]
-category: 'Work'
+category: '工作记录'
 draft: false 
 ---
 

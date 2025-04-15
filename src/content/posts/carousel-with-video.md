@@ -4,7 +4,7 @@ published: 2025-03-21
 updated: 2025-04-10
 description: '想想当初我还嘲笑那位同事被安排了这么个活，现在回旋镖打到自己身上了🫤...... Carousel 轮播图组件支持视频、图片混用，支持自动轮播、移入暂停，支持视频播放完毕后再切换页面 ......'
 tags: [React]
-category: 'Work'
+category: '工作记录'
 draft: false 
 ---
 

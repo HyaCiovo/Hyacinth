@@ -4,7 +4,7 @@ published: 2024-09-10
 updated: 2024-09-10
 description: '本文记录解决在`qiankun`微前端架构项目中“父应用无法正确加载子应用静态文件”的问题。主要通过正确配置子应用的静态文件资源目录和父应用资源转发。'
 tags: [qiankun]
-category: 'Work'
+category: '工作记录'
 draft: false 
 ---
 

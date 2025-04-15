@@ -4,7 +4,7 @@ published: 2024-05-24
 updated: 2024-05-24
 description: '使用Svelte+Vite+daisyUI帮测试同学做的DecryptKit解密小工具，Tauri打包后的程序体积居然只有3.5MB。'
 tags: [Tauri,Svelte,Crypto]
-category: 'Learning'
+category: '兴趣扩展'
 draft: false 
 ---
 

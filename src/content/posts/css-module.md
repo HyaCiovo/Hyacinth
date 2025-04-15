@@ -4,7 +4,7 @@ published: 2025-03-27
 updated: 2025-03-27
 description: '作者尝试在 CSS Modules 中使用伪元素动态绑定 data-* 属性时，一个令人困惑的问题出现了：伪元素通过 attr() 函数获取的 data-* 属性值不会跟着更新...'
 tags: [CSS,React]
-category: 'Learning'
+category: '兴趣扩展'
 draft: false 
 ---
 

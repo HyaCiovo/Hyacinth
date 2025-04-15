@@ -4,7 +4,7 @@ published: 2022-12-28
 updated: 2022-12-28
 description: '菜鸟前端，近来没有什么业务需求，就想着了解一下之前没接触过的一些流行的前端技术。不过在学习Nuxt3时kuangkuang踩坑，这里做一下记录，希望在方便自己复习的同时，也能帮到后面学习的同学。'
 tags: [Vue3, Nuxt]
-category: 'Learning'
+category: '兴趣扩展'
 draft: false 
 ---
 ## 前言

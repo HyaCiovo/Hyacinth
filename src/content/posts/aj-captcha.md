@@ -4,7 +4,7 @@ published: 2024-10-25
 updated: 2024-10-25
 description: '一个基于 AJ-Captcha+AntDesign 实现的 React 滑块验证码组件，用于验证用户身份。该组件通过显示一张带有缺失部分的图片，并要求用户将缺失部分拖动到正确位置来完成验证。'
 tags: [React]
-category: 'OpenSource'
+category: '开源'
 draft: false 
 ---
 

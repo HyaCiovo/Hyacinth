@@ -4,7 +4,7 @@ published: 2025-03-05
 updated: 2025-03-05
 description: '前几天公司平台首页崩溃了 504 Time-out，最后确定是因为服务端渲染时接口请求超时导致页面返回超时。这里记录一下问题排查和解决的过程。'
 tags: [React, Next]
-category: 'Work'
+category: '工作记录'
 draft: false 
 ---
 

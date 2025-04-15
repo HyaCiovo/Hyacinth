@@ -4,7 +4,7 @@ published: 2024-01-29
 updated: 2024-01-29
 description: '记一次因为在开发时顺手做的样式缺陷优化，导致同事开发的新feature出现bug。能用就先别动代码，修改整体样式代码时，不仅要考虑已有页面，还要考虑到同事并行开发的页面。'
 tags: [React]
-category: 'Work'
+category: '工作记录'
 draft: false 
 ---
 

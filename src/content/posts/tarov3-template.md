@@ -4,7 +4,7 @@ published: 2024-11-11
 updated: 2025-03-19
 description: '新增支持支付宝小程序；新增埋点统计集成。近期有微信小程序开发需求，主管让我们进行技术选型、编写开发指引和规范文档。这里记录一下我们的技术选型过程，并分享一个模板项目供开发朋友们参考。'
 tags: [Taro,React]
-category: 'OpenSource'
+category: '开源'
 draft: false 
 ---
 

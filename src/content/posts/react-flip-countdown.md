@@ -4,7 +4,7 @@ published: 2025-03-24
 updated: 2025-03-24
 description: 'React-Flip-Countdown 是一个基于 React 的翻牌倒计时组件，支持动态显示天、小时、分钟和秒的倒计时效果。提供灵活的配置选项以满足不同的倒计时需求。'
 tags: [React]
-category: 'OpenSource'
+category: '开源'
 draft: false 
 ---
 

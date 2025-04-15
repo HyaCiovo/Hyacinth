@@ -4,7 +4,7 @@ published: 2024-07-02
 updated: 2024-07-02
 description: '2024年中总结，7月杭州迎来“大火收汁”🥵。转眼这个2024年也过去了一半，我也从大学毕业做了2年的“来杭州讨饭的🐕”了，小小div砌砖工在尽力把生活过得充实些了。'
 tags: [总结]
-category: 'Life'
+category: '生活记录'
 draft: false 
 ---
 
