@@ -1,5 +1,5 @@
 ---
-title: 使用patch-package修改第三方包源码，提升开发体验
+title: 使用 patch-package 修改第三方包源码，提升开发体验
 published: 2024-08-26
 updated: 2024-08-26
 description: '当你需要直接修改第三方包源码，但又不想或者不能直接向原仓库提交 PR 时，你可以使用 patch-package 这个小工具实现优雅地修改第三方包代码😎'

@@ -1,5 +1,5 @@
 ---
-title: 使用Tauri构建的小工具体积居然这么小
+title: 使用 Tauri 构建的小工具体积居然这么小
 published: 2024-05-24
 updated: 2024-05-24
 description: '使用Svelte+Vite+daisyUI帮测试同学做的DecryptKit解密小工具，Tauri打包后的程序体积居然只有3.5MB。'

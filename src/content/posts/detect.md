@@ -1,5 +1,5 @@
 ---
-title: 使用Vercel部署SolidJS+daisyUI的纯前端人脸识别项目
+title: 使用 Vercel 部署 SolidJS+daisyUI 的纯前端人脸识别项目
 published: 2024-05-24
 updated: 2024-05-24
 description: '使用Vercel部署SolidJS+daisyUI的纯前端人脸识别项目。 使用tracking.js识别人脸，并上传到百度智能云进行人脸对比。解决Vercel上传项目的接口跨域问题。'
