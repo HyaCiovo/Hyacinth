@@ -73,11 +73,11 @@ export default {
 
 #### 资源文件
 
-从子应用 html 上解析出 js 和 css 加载到父应用基座![未命名文件 (2).png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/18435396cdde4e9cafa435fb9d3f9f20~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1035\&h=383\&s=35438\&e=png\&a=1\&b=f8f8f8)
+从子应用 html 上解析出 js 和 css 加载到父应用基座![未命名文件 (2).png](../images/1744768317666.jpg)
 
 #### 网络请求
 
-![未命名文件 (1).png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f874a15561f54c5881460ff791130afb~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=987\&h=508\&s=52703\&e=png\&a=1\&b=fefefe)
+![未命名文件 (1).png](../images/1744768269456.jpg)
 
 ## 核心
 
